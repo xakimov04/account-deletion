@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delete Your Account</title>
 </head>
 <body>
     <h1>Delete Your Account – TezMed</h1>
